@@ -14,14 +14,14 @@ function About() {
             </div>
         </div>
         <div className='child-container'>
-            <img className="about-image h-auto max-w-76 sm:max-w-full md:max-w-96 lg:max-w-full sm:mt-5" src={"/static/images/IMG_0165.jpg"} alt="a group of people at a sponsor fair"></img>
+            <img className="about-image h-auto max-w-76 sm:max-w-full md:max-w-96 lg:max-w-full sm:mt-5" src={"/static/images/IMG_0165.jpg"} alt="a group of people at a sponsor fair" loading="eager"></img>
         </div>
       </div>
 
       {/* group 2 */}
       <div className='about-group flex flex-wrap-reverse flex-col sm:flex-row md:flex-row: lg:flex-row pt-32 sm:pt-36 md:pt-48 lg:pt-72'>
         <div className='child-container'>
-            <img className="about-image h-auto max-w-76 sm:max-w-full md:max-w-96 lg:max-w-full sm:mt-5" src={"/static/images/IMG_1752.jpg"} alt="two girls smiling at the camera, holding a WEHack tote bag"></img>
+            <img className="about-image h-auto max-w-76 sm:max-w-full md:max-w-96 lg:max-w-full sm:mt-5" src={"/static/images/IMG_1752.jpg"} alt="two girls smiling at the camera, holding a WEHack tote bag" loading="eager"></img>
         </div>
         <div className='child-container'>
             <div className='paragraph-2 flex flex-wrap flex-col gap-y-5'>

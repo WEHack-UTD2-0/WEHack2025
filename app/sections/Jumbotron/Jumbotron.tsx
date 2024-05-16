@@ -17,7 +17,7 @@ function Jumbotron() {
 
     <section className='jumbotron parent-container' id="home">
         <div className='jumboImg-container child-container'>
-            <img className="wehack-mascot h-auto max-w-60 sm:max-w-64 md:max-w-72 lg:max-w-72" src={"/static/images/IMG_0844(1).png"} alt="wehack logo"></img>
+            <img className="wehack-mascot h-auto max-w-60 sm:max-w-64 md:max-w-72 lg:max-w-72" src={"/static/images/IMG_0844(1).png"} alt="wehack logo" loading="eager"></img>
         </div>
         <div className='jumboText-container child-container'>
             <div className='jumbo-group'>
