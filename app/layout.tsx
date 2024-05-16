@@ -29,7 +29,7 @@ export default function RootLayout({
       <head>
         {/* google analytics tag */}
         <Script async src="https://www.googletagmanager.com/gtag/js?id=G-R5CQZPXHFV"></Script>
-        <Script>
+        <Script id="google analytics tag">
           {
             `
               window.dataLayer = window.dataLayer || [];
