@@ -14,8 +14,8 @@ const inknut = Inknut_Antiqua({
 });
 
 export const metadata: Metadata = {
-  title: "WEHack Mock",
-  description: "Mockup for new WEHack 24-25 Website",
+  title: "WEHack",
+  description: "WEHack 24-25 Website",
 };
 
 export default function RootLayout({
