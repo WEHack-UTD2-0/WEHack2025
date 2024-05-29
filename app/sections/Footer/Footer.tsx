@@ -14,7 +14,7 @@ function Footer() {
             <a className='nav-link font-bold' href="#home">Home</a>
             <a className='nav-link font-bold' href="#about-wehack">About</a>
             <a className='nav-link font-bold' href="#FAQ">FAQ</a>
-            <a className='nav-link font-bold' href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank">MLH Conduct</a>
+            <a className='nav-link font-bold' href="http://hackp.ac/coc" target="_blank">MLH Conduct</a>
         </div>
         <div className='contact-container w-full flex flex-wrap flex-col content-center items-center md:content-start md:items-start lg:content-start lg:items-start gap-y-4  md:w-1/2 lg:w-1/2 lg:-mr-60'>
             <h1 className='about-title text-[#FFE9D7] font-medium text-xl text-left'>Contact Us</h1>
