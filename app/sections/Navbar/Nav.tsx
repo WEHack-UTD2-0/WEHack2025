@@ -20,11 +20,11 @@ function Nav() {
           <li><a className='text-lg lg:text-base' href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Conduct</a></li>
         </ul>
 
-        {/* MLH 2024 BADGE */}
+        {/* MLH 2025 BADGE */}
         <a className="mlh-trust-badge" 
       href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2024-season&utm_content=white" 
-      target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/2024/mlh-trust-badge-2024-white.svg" 
-      alt="Major League Hacking 2024 Hackathon Season"/></a>
+      target="_blank"><img src={"/static/images/mlh-trust-badge-2025-white.svg"} 
+      alt="Major League Hacking 2025 Hackathon Season"/></a>
   </nav>
   )
 }
