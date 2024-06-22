@@ -25,7 +25,7 @@ function Jumbotron() {
                 <h1 className='jumbo-title text-[#FFE9D7] text-4xl md:text-5xl lg:text-5xl animate-pulse'>WEHack 2025: Coming Soon</h1>
                 <h2 className='jumbo-text text-[#FFE9D7] text-2xl sm:text-2xl md:2xl lg:text-3xl'>April 2025</h2>
                 <div className='jumbo-buttons'>
-                  {/* <Button link={''} buttonText={'Interest Form'}/> */}
+                  <Button link={'https://events.mlh.io/events/11456-wehack'} buttonText={'Interest Form'}/>
                   {/* <Button link={'https://live.wehackutd.com/'} buttonText={'WEHack Portal'}/> */}
                 </div>
             </div>
